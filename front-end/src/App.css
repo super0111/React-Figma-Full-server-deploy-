@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+  background-color: #E5E5E5;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: "PP Telegraf-Ultralight";
+  src: local('PP Telegraf-Ultralight'), local('PP Telegraf-Ultralight'), 
+   url('./assets/font/PPTelegraf-UltraLight.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "PP Telegraf-UltraBold";
+  src: local('PP Telegraf-UltraBold'), local('PP Telegraf-UltraBold'), 
+   url('./assets/font/PPTelegraf-UltraBold.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "PP Telegraf-Regular";
+  src: local('PP Telegraf-Regular'), local('PP Telegraf-Regular'), 
+   url('./assets/font/PPTelegraf-Regular.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: local('Manrope'), local('Manrope'), 
+   url('./assets/font/manrope.regular.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "Manrope-Semi-bold";
+  src: local('Manrope-Semi-bold'), local('Manrope-Semi-bold'), 
+   url('./assets/font/manrope.semibold.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "Manrope-bold";
+  src: local('Manrope-bold'), local('Manrope-bold'), 
+   url('./assets/font/manrope.bold.otf')format("truetype");
+}
+
+
+@font-face {
+  font-family: "Manrope-extra-bold";
+  src: local('Manrope-extra-bold'), local('Manrope-extra-bold'), 
+   url('./assets/font/manrope-extrabold.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "Manrope-Medium";
+  src: local('Manrope-Medium'), local('Manrope-Medium'), 
+   url('./assets/font/manrope-medium.otf')format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: local('Roboto-Regular'), local('Roboto-Regular'), 
+   url('./assets/font/Roboto-Regular.ttf')format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto-bold";
+  src: local('Roboto-bold'), local('Roboto-bold'), 
+   url('https://allfont.net/allfont.css?fonts=roboto-bold')format("truetype");
+}
+
+@font-face {
+  font-family: "Inter-Semi-bold";
+  src: local('Inter-Semi-bold'), local('Inter-Semi-bold'), 
+   url('./assets/font/Inter-SemiBold.otf')format("truetype");
+}

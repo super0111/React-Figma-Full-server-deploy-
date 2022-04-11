@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6222e8430c78ff2fc452857b"
+  },
+  "productName": "asdsfasdf",
+  "subName": "SFASDF",
+  "type": "web",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:34:11.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222e8640c78ff2fc452857d"
+  },
+  "productName": "asdsfasdf",
+  "subName": "SFASDF",
+  "type": "web",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:34:44.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222e8660c78ff2fc452857f"
+  },
+  "productName": "asdsfasdf",
+  "subName": "SFASDF",
+  "type": "web",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:34:46.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222e8670c78ff2fc4528581"
+  },
+  "productName": "asdsfasdf",
+  "subName": "SFASDF",
+  "type": "web",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:34:47.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222eccf52f349383b7407fd"
+  },
+  "productName": "Name of the App",
+  "subName": "app category tag",
+  "type": "mobile",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:53:35.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222ecd152f349383b7407ff"
+  },
+  "productName": "Name of the App",
+  "subName": "app category tag",
+  "type": "mobile",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:53:37.647Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6222ecd252f349383b740801"
+  },
+  "productName": "Name of the App",
+  "subName": "app category tag",
+  "type": "mobile",
+  "imageList": [],
+  "createdDate": {
+    "$date": "2022-03-05T04:53:38.494Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223568d886c7193169de9ee"
+  },
+  "productName": "Name of the App",
+  "subName": "app category tag",
+  "type": "mobile",
+  "imageList": [],
+  "favourited": false,
+  "createdDate": {
+    "$date": "2022-03-05T12:24:45.368Z"
+  },
+  "__v": 0
+}]

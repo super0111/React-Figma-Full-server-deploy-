@@ -1,0 +1,244 @@
+/* Variables */
+
+:root {
+    --warnig: #FF005C;
+    --second: #000000;
+    --blue-ribbon: #0065ff;
+    --mirage: #171d29;
+    --ocean-blue-pearl: #5542f6;
+    --background-gray: #FBFAFC;
+    --purple: #6900d9;
+    --granite-gray: #69696933;
+    --granite-gray2: #69696980;
+    --gray: #696969;
+    --electric-violet: #9f00d7;
+    --electric-violet2: #7c00ff33;
+    --main: #7c00ff;
+    --mist-gray-2: #c4c4c433;
+    --mist-gray: #c4c4c4;
+    --bon-jour: #e1e1e1;
+    --white: #ffffff;
+    --gallery: #efefef;
+    --gray-nurse: #e8e8e8;
+    --charade: #2E2C34;
+    --black-hover: #323232;
+    --black-normal: #1a1a1c;
+    --blue-hover: #7C00FF;
+    --txt-gray: #84818A;
+    --divider: #EBEAED;
+    --red: #FC3400;
+    --admin-black: #504F54;
+
+    --font-size-10: 10px;
+    --font-size-11: 11px;
+    --font-size-12: 12px;
+    --font-size-13: 13px;
+    --font-size-14: 14px;
+    --font-size-l: 16px;
+    --font-size-17: 17px;
+    --font-size-20: 20px;
+    --font-size-24: 24px;
+    --font-size-28: 28px;
+    --font-size-32: 32px;
+    --font-size-36: 36px;
+    --font-size-40: 40px;
+    --font-size-48: 48px;
+  
+    --font-family-roboto: "Roboto-Regular";
+    --font-family-roboto-bold: "Roboto-bold";
+    --font-family-manrope: "Manrope";
+    --font-family-manrope-medium: "Manrope-Medium";
+    --font-family-manrope-semi-bold: "Manrope-Semi-bold";
+    --font-family-manrope-bold:"Manrope-bold";
+    --font-family-manrope-extra-bold:"Manrope-extra-bold";
+    --font-family-open_sans: "Open Sans";
+    --font-family-inter-semi-bold: "Inter-Semi-bold";
+    --font-family-pp_telegraf-regular: "PP Telegraf-Regular";
+    --font-family-pp_telegraf-ultrabold: "PP Telegraf-UltraBold";
+    --font-family-pp_telegraf-ultralight: "PP Telegraf-Ultralight";
+  }
+  
+  /* Classes */
+  
+  .pptelegraf-ultra-bold-mirage-16px {
+    color: var(--mirage);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-17px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-17);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-white-10px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-10);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-12px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-12);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-1px-second {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--second);
+  }
+  .pptelegraf-regular-normal-white-8px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: 8px;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-28px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-28);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-1px-granite-gray {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--granite-gray);
+  }
+  .pptelegraf-ultra-bold-black-20px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-20);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-12);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .opensans-normal-electric-violet-14px {
+    color: var(--main);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .border-1px-purple {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--purple);
+  }
+  .pptelegraf-regular-normal-granite-gray-14px {
+    color: var(--gray);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-36px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-blue-ribbon-14px {
+    color: var(--blue-ribbon);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-granite-gray-10px {
+    color: var(--gray);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-10);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-48px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: 48px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-ultra-bold-black-14px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-ultrabold);
+    font-size: var(--font-size-14);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-electric-violet-14px {
+    color: var(--main);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-mirage-16px {
+    color: var(--mirage);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .border-1px-ocean-blue-pearl {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--ocean-blue-pearl);
+  }
+  .pptelegraf-regular-normal-granite-gray-14px2 {
+    color: var(--granite-gray2);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-black-14px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: var(--font-size-14);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pptelegraf-regular-normal-black-13px {
+    color: var(--second);
+    font-family: var(--font-family-pp_telegraf-regular);
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

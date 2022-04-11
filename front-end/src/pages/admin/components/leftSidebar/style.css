@@ -1,0 +1,11 @@
+.MuiTreeItem-label{
+    padding-left: 0px !important;
+}
+
+.MuiCollapse-root{
+    margin-left: 0px !important;
+    width: 250px;
+}
+.MuiTreeItem-root{
+    width: 250px;
+}
